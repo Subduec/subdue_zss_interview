@@ -1,5 +1,4 @@
 package zw.co.zss.interview.model;
-
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
